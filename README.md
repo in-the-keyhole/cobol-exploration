@@ -1,2 +1,2 @@
-# cobol-gradebook
-Learning project for COBOL: Implement a simple gradebook reading data from a file and providing output
+# cobol-exploration
+Learning COBOL by writing all kinds of things
